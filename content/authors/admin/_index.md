@@ -10,7 +10,7 @@ role: '中山大学'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -44,13 +44,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: mailto:wangzhlai@mail2.sysu.edu.cn # For a direct email link, use "mailto:test@example.org".
+  - icon: envelope
+    icon_pack: fas
+    link: 'about/#contact'
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
