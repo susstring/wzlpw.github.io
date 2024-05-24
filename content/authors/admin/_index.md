@@ -6,16 +6,16 @@ title: ZhenLai Wang (王臻铼)
 superuser: true
 
 # Role/position
-role: '中山大学'
+#role: '中山大学'
 
 # Status emoji
 status:
   icon: 
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: 中山大学
+  url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
