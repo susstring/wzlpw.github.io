@@ -6,7 +6,7 @@ title: ZhenLai Wang (王臻铼)
 superuser: true
 
 # Role/position
-role: '中山大学'
+role: '中山大学1'
 
 # Status emoji
 status:
@@ -47,7 +47,7 @@ social:
     link: mailto:wangzhlai@mail2.sysu.edu.cn # For a direct email link, use "mailto:test@example.org".
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact'
+    link: 'mailto:wsusstring@gmail.com'
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
