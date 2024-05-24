@@ -18,7 +18,7 @@ organizations:
   url: https://www.sysu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 我的研究兴趣是凝聚态理论，包括拓扑物态
 
 #interests:
 #- Artificial Intelligence
