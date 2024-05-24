@@ -44,10 +44,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:wangzhlai@mail2.sysu.edu.cn # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:wsusstring@gmail.com'
+    link: 'about/#contact'
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
