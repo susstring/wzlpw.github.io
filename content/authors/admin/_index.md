@@ -6,7 +6,7 @@ title: ZhenLai Wang (王臻铼)
 superuser: true
 
 # Role/position
-role: ''
+role: '中山大学'
 
 # Status emoji
 status:
