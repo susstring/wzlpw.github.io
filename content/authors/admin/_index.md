@@ -45,7 +45,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:wangzhlai@mail2.sysu.edu.cn # For a direct email link, use "mailto:test@example.org".
-      - icon: envelope
+  - icon: envelope
     icon_pack: fas
     link: mailto:wsusstring@gmail.com # For a direct email link, use "mailto:test@example.org".
   #- icon: twitter
